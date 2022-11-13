@@ -124,4 +124,3 @@ Footer navigation
     Blog
     About
 
-git 
